@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.2abbc948.css",
+    "main.js": "/myportfolio/static/js/main.903e2d92.js",
+    "static/media/programming-code-laptop.jpg": "/myportfolio/static/media/programming-code-laptop.162b5393a0b45e5a90f3.jpg",
+    "index.html": "/myportfolio/index.html",
+    "main.2abbc948.css.map": "/myportfolio/static/css/main.2abbc948.css.map",
+    "main.903e2d92.js.map": "/myportfolio/static/js/main.903e2d92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2abbc948.css",
+    "static/js/main.903e2d92.js"
+  ]
+}
