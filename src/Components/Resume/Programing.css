@@ -1,0 +1,30 @@
+.program-section .border{
+padding: 7px;
+/* background-color: black; */
+background: linear-gradient(
+    to right,
+    red 0%,
+    pink 80%,
+    purple 0%,
+    black 20%
+);
+
+}
+.program-section .border-last{
+    padding: 7px;
+    /* background-color: black; */
+    background: linear-gradient(
+        to right,
+        red 0%,
+        pink 60%,
+        purple 0%,
+        black 40%
+    );
+    
+    }
+    
+
+.program-section ul li{
+    margin-top: 8px;
+    font-weight: 700;
+}

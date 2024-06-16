@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-footer{
+    position: relative;
+    
+    /* background-size: cover; */
+
+}
+.footer1{
+    margin-top: 10px;
+}
+.footer1 p{
+    padding: 10px 0px;
+    color: white;
+}
+.footer2{
+    margin-top: 10px;
+}
+.footer2 p{
+    padding: 10px 0px;
+    color: white;
+}
+.footer3{
+    margin-top: 10px;
+}
+.footer3 p{
+    padding: 10px 0px;
+    color: white;
+}
+.footicon{
+    position: relative;
+    margin-top: 20px;
+    
+}
+.footicon a{
+    padding: 8px;
+}

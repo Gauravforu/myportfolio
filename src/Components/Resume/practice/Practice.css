@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.practice {
+     padding-top: 20px;
+} 
+.practice ul li h6{
+    font-weight: 800;
+}
